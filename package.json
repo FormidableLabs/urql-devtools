@@ -131,7 +131,7 @@
     "nanoid": "^3.1.12",
     "polished": "^3.6.6",
     "prettier": "^2.1.1",
-    "puppeteer": "^3.3.0",
+    "puppeteer": "^5.3.0",
     "react": "^16.13.1",
     "react-cosmos": "5.4.0",
     "react-dom": "^16.13.1",

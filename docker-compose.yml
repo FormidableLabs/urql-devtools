@@ -11,7 +11,7 @@ services:
     command:
       - yarn --frozen-lockfile && yarn cosmos
   regression:
-    image: buildkite/puppeteer:v3.0.4
+    image: buildkite/puppeteer:v5.2.1
     user: root
     working_dir: /app
     volumes:
